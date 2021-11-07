@@ -6,15 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pashq2&layout=compact&theme=dark)
 
-[Rewin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pashq2&show_icons=true&theme=dark)
+![Pashq GitHub stats](https://github-readme-stats.vercel.app/api?username=Pashq2&show_icons=true&theme=dark)
 
 
-
-<br />
-
-
-[instagram]: https://www.instagram.com/excxdd
-<br />
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Pashq2&show_icons=true&theme=gradient)
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Pashq2&show_icons=true&theme=radical)
